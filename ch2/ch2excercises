@@ -1,0 +1,6 @@
+Heal the Sick 2.7
+1. Nothing was wrong in my REPL?
+2. let double x = x * 2
+3. x = 7
+   y = 10
+   f = x + y
